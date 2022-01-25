@@ -1,0 +1,12 @@
+
+/* apply style to body */
+
+header {
+    padding: 20px 35 px;
+    background-color: #39a6b2;
+}
+
+body { 
+    color: #39a6b2;
+    font-family: Arial, Helvetica, sans-serif;
+}
